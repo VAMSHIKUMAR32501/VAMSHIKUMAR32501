@@ -2,6 +2,7 @@
 
 I'm currently a final-year Computer Science student  
 I'm focused on **DSA & Full-Stack Web Development**  
+Focusing on Backend + System Design + Data + Cloud basics
 Actively building real-world projects  
 Interested in scalable systems & clean UI  
 
